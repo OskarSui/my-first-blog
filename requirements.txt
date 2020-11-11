@@ -1,0 +1,2 @@
+Django~=3.1
+#oskar (licei@2004) dxb.oskar@gmail.com
